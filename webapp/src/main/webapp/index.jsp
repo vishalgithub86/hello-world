@@ -7,7 +7,11 @@
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
-    
+   
+    <label for="Surname"><b>Enter Surname</b></label>
+    <input type="text" placeholder="Enter Sunname" name="surname" id="Surname" required>
+     <br>
+
     <label for="mobile"><b>9892787932</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
