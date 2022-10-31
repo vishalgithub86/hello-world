@@ -12,12 +12,12 @@
     <input type="text" placeholder="Enter Sunname" name="Surname" id="Surname" required>
      <br>
 
-    <label for="MiddleName"><b>Enter your Surname</b></label>
+    <label for="MiddleName"><b>Enter your Middle name</b></label>
     <input type="text" placeholder="Enter Sunname" name="Surname" id="Surname" required>
      <br>
 
 
-     <label for="mobile"><b>9892787932</b></label>
+     <label for="mobile"><b>Mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
